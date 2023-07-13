@@ -1,6 +1,4 @@
 # daily-reading
-daily reading
-
 
 ## 2023
 
