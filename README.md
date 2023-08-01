@@ -2,6 +2,7 @@
 
 ## 2023
 
+- [2023-08](2023-08)
 - [2023-07](2023-07)
 - [2023-06](https://github.com/vogo/informer/issues/19)
 - [2023-05](https://github.com/vogo/informer/issues/18)
